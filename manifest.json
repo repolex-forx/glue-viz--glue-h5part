@@ -1,0 +1,27 @@
+{
+  "manifest_version": "1.0",
+  "org": "glue-viz",
+  "repo": "glue-h5part",
+  "versions": [
+    {
+      "commit": "969aed7046e4965962e8ed5daa9c557baffc48bc",
+      "parsed_at": "2026-10-21T21:26:50.788602+00:00",
+      "filetree": "filetree/969aed7046e4965962e8ed5daa9c557baffc48bc.nq.gz",
+      "blobs": [
+        "blob/0c26dc1954618efe30c11a0d05a826ffa37fd932.nq.gz",
+        "blob/c7e9c11572b4efee42b29126f4d73dd1ae8984a5.nq.gz",
+        "blob/3abd18a5d88bdcb24d63c7be53d9f860fdf1c93e.nq.gz",
+        "blob/c23722130891150c4d790138abd003b41b284a27.nq.gz",
+        "blob/912ff25ce424e89249e4700676933bc1130ac468.nq.gz",
+        "blob/1f7f0b3a93a9fa90364b1f31da338abee707c048.nq.gz",
+        "blob/4a6bd8bf1d178c4bc8d1ee3cbbd238a427ec1dbb.nq.gz",
+        "blob/79ea5e6d91c627945d21d5438e34ade8dbbf7a84.nq.gz",
+        "blob/e5a54fd49a50dd88075bce0ec3d49d76ce9672f7.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz"
+}
